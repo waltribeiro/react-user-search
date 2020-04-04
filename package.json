@@ -1,6 +1,6 @@
 {
   "homepage" : "http://waltribeiro.github.io/react-user-directory",
-  "name": "react-user-directory",
+  "name": "react-user-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
