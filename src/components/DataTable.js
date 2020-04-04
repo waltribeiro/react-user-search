@@ -22,6 +22,7 @@ function DataTable({headings, users}) {
                 </thead>
 
                 <DataBody
+                
                 users={users}
                 />
                 
