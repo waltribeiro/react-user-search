@@ -1,18 +1,14 @@
-import React from "react";
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
-import Card from "./components/Card";
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Main from './components/Main/';
 
 function App() {
-    return (
-        <div>
-            <Header />
-            <Navbar />
-            <Card />
-            <Card />
-            <Card />
-        </div>
-    );
+  return (
+    <div className="App">
+      <Main />
+    </div>
+  );
 }
 
 export default App;
