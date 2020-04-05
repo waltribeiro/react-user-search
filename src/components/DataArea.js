@@ -14,7 +14,7 @@ export default class DataArea extends Component{
             users:[{}],
             headings:
                 [
-                    {name: "image"},
+                    {name: "images"},
                     {name: "name"},
                     {name: "phone"},
                     {name: "email"},
@@ -24,8 +24,8 @@ export default class DataArea extends Component{
     }
     componentDidMount() {
         API.getUsers().then(results => {
-            console.log(results)
-            console.log(results.data.results[0])
+        //     console.log(results)
+        //     console.log(results.data.results[0])
             this.setState({
                 users: results.data.results
             })
