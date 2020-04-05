@@ -1,4 +1,4 @@
-# Node Fitness Tracker
+# React.js User Search
  
    ## [Description](#description) &nbsp;&bull;&nbsp; [Screenshot](#screenshot) &nbsp;&bull;&nbsp; [Installation](#installation) &nbsp;&bull;&nbsp; [License](#license) &nbsp;&bull;&nbsp; [Demo](#demo) &nbsp;&bull;&nbsp; [GitHub](#gitHub)
   

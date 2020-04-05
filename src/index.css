@@ -30,7 +30,7 @@ tr:nth-child(even) {
   background-color:rgb(49, 49, 78);
   color:white;
   margin: 0 auto;
-  padding: 0px 0px 0px 100px;
+  padding: 0px 0px 0px 0px;
 }
 
 footer {
